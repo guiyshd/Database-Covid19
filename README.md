@@ -5,7 +5,7 @@ O código disponível no github são dos scripts necessários para obter os dado
 
 ![Painel 3](https://user-images.githubusercontent.com/26206052/86056446-d94caa00-ba33-11ea-9738-f8f5713fd5dd.png)
 
-Nesse processo são feitos a extração, limpeza e armazenamento dos dados. As apis e banco utilizados são BR API (https://covid19-brazil-api.now.sh), BR IO (https://data.brasil.io/dataset/covid19/_meta/list.html), WCota (https://covid19br.wcota.me) e SESA PR (http://www.saude.pr.gov.br/Pagina/Coronavirus-COVID-19). Este repositório tem ligação direta com a criação do Painel de Dados Coronavírus - Paraná (https://github.com/lamia-utfpr/IC02-2019-Painel-de-Dados-Covid19).
+Nesse processo são feitos a extração, limpeza e armazenamento dos dados. As apis e banco utilizados são BR API (https://covid19-brazil-api.now.sh), BR IO (https://data.brasil.io/dataset/covid19/_meta/list.html), WCota (https://covid19br.wcota.me) e SESA PR (http://www.saude.pr.gov.br/Pagina/Coronavirus-COVID-19).
 
 ## Objetivos
 O objetivo principal do projeto Painel Paraná Covid-19 é monitorar de forma inteligente os dados do coronavírus prioritariamente no estado do Paraná e no restante do Brasil, com dados atualizados em tempo real e com uso de algoritmos de inteligência artificial para executar predições e construir relatórios para tomadas de decisão por parte dos órgãos públicos e privados que atuam no combate do covid19.
