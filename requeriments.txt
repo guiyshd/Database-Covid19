@@ -1,3 +1,5 @@
+# All requeriments
+
 astroid==2.4.2
 autopep8==1.5.3
 certifi==2020.6.20
