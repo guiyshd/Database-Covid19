@@ -1,56 +1,6 @@
 # Database-Covid19
 Criação de um banco com dados do coronavírus (covid-19). Nesse processo são feitos a extração, limpeza e armazenamento dos dados. As apis e banco utilizados são BR API (https://covid19-brazil-api.now.sh), BR IO (https://data.brasil.io/dataset/covid19/_meta/list.html), WCota (https://covid19br.wcota.me) e SESA PR (http://www.saude.pr.gov.br/Pagina/Coronavirus-COVID-19). Este repositório tem ligação direta com a criação do Painel de Dados Coronavírus - Paraná (https://github.com/lamia-utfpr/IC02-2019-Painel-de-Dados-Covid19).
 
-<h1 align="center">
-  <br>
-  <a href="http://www.lamia-sh.utfpr.edu.br">
-    <img src="https://user-images.githubusercontent.com/26206052/86039037-3dfa0b80-ba18-11ea-9ab3-7e0696b505af.png" alt="LAMIA - Laboratório de                  Aprendizagem de Máquina e Imagens Aplicados à Indústria" width="400"></a>
-<br> <br>
-Painel de Dados Coronavírus (COVID-19) - Paraná
-<h4 align="center"><a href="https://bit.ly/paineldadoscovid19" target="_blank">Informe Epidemiológico Inteligente</a></h4>
-</h1>
-
-<p align="center">
-  <a href="https://lamia.sh.utfpr.edu.br">
-    <img src="https://img.shields.io/badge/Follow-Lab%20Page-blue" alt="Lab">
-  <a href="https://bit.ly/paineldadoscovid19">
-    <img src="https://img.shields.io/badge/Application-PowerBI-black" alt="Application">
-  <a href="https://github.com/lamia-utfpr/IC02-2019-Painel-de-Dados-Covid19/blob/Produ%C3%A7%C3%A3o/LICENSE">
-    <img src="https://img.shields.io/github/license/lamia-utfpr/IC02-2019-Painel-de-Dados-Covid19" alt="License">
-  <a href="https://github.com/lamia-utfpr/IC02-2019-Painel-de-Dados-Covid19">
-    <img src="https://img.shields.io/badge/Build-2.0-green" alt="Build 2.0">
-   </a></a></a></a>
-</p>
-
-<p align="center">
-<b>Equipe:</b>  
-<br>
-Thiago Naves <a href="https://github.com/tfnaves" target="_blank"> (Naves, T. F.)</a> - Coordenador  <br>
-Arlete Beuren <a href="https://github.com/arleteb" target="_blank"> (Beuren, A. T.)</a> - Orientadora  <br>
-Anderson Brilhador <a href="https://github.com/Brilhador" target="_blank">(Brilhador, A.)</a> - Orientador  <br>
-Nathalia de Oliveira <a href="https://github.com/nathmota" target="_blank">(Oliveira, N. V. M.)</a> - Membro Líder  <br>
-Jece Neto <a href="https://github.com/XavierJece" target="_blank">(Neto, J. X. P.)</a> - Membro  <br>
-Guilherme Yoshida <a href="https://github.com/guiyshd" target="_blank">(Yoshida, G.)</a> - 	Membro  <br>
-Hugo de Freitas <a href="https://github.com/HugoJFreitas" target="_blank">(Freitas, H. J. T</a>) - Membro  <br>
-</p>
-
-<p align="center">  
-<b>Grupo</b>: <a href="https://lamia.sh.utfpr.edu.br" target="_blank">LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria </a> <br>
-<b>Email</b>: <a href="mailto:lamia-sh@utfpr.edu.br" target="_blank">lamia-sh@utfpr.edu.br</a> <br>
-<b>Organização</b>: <a href="http://portal.utfpr.edu.br" target="_blank">Universidade Tecnológica Federal do Paraná</a> <a href="http://www.utfpr.edu.br/campus/santahelena" target="_blank"> - Campus Santa Helena</a> <br>
-</p>
-
-<p align="center">
-<br>
-Status do Projeto: Em desenvolvimento :warning:
-</p>
-
-<p align="center">
-  <a href="https://www.loom.com/share/078eb1ade510400ea0826053973d385e">
-    <img src="https://user-images.githubusercontent.com/26206052/86052555-8c65d500-ba2d-11ea-8265-0e1acd1d521c.gif" width="900">
-  </a>
-</p>
-  
 ## Resumo
 O projeto utiliza das tecnologias de ciência dos dados para desenvolver uma plataforma de monitoramento e análise inteligente dos dados do Covid-19 em relação a confirmados, óbitos, tipos de óbitos, suspeitos, recuperados, leitos, dentre outros dados. A plataforma possui foco maior no estado do Paraná e faz monitoramento dos demais estados do Brasil e dos países do restante do mundo. O painel também possui a finalidade de manter as pessoas informadas acerca dos avanços do coronavírus e pode ser acessado https://bit.ly/paineldadoscovid19.
 
