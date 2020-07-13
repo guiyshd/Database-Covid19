@@ -85,7 +85,6 @@ wrapt==1.12.1
 * [pandas](https://pandas.pydata.org/) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 * [NumPy](https://numpy.org/) - NumPy is an open source project aiming to enable numerical computing with Python.
-* [tabula-py](https://tabula-py.readthedocs.io/en/latest/tabula.html/) - tabula-py is a simple Python wrapper of tabula-java, which can read table of PDF.
 * [SQLAlchemy](https://docs.sqlalchemy.org/en/13/) - The SQLAlchemy SQL Toolkit and Object Relational Mapper is a comprehensive set of tools for working with databases and Python.
 * [Requests](https://requests.readthedocs.io/en/master/) - Requests is an elegant and simple HTTP library for Python, built for human beings.
 * [schedule](https://pypi.org/project/schedule/) - Schedule lets you run Python functions (or any other callable) periodically at pre-determined intervals using a simple, human-friendly syntax.
