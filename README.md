@@ -1,0 +1,2 @@
+# Database-Covid19
+Criação de um banco com dados do coronavírus (covid-19). Nesse processo são feitos a extração, limpeza e armazenamento dos dados. As apis e banco utilizados são BR API (https://covid19-brazil-api.now.sh), BR IO (https://data.brasil.io/dataset/covid19/_meta/list.html), WCota (https://covid19br.wcota.me) e SESA PR (http://www.saude.pr.gov.br/Pagina/Coronavirus-COVID-19). Este repositório tem ligação direta com a criação do Painel de Dados Coronavírus - Paraná (https://github.com/lamia-utfpr/IC02-2019-Painel-de-Dados-Covid19).
